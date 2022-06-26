@@ -1,3 +1,10 @@
+
+# Autores:
+# Michel Silva
+# Emanuel Frank
+# Carlos Eduardo
+# data: 26/06/2022
+#
 #
 # Elabore um algoritmo que calcule e imprima o salário reajustado de um funcionário
 # de acordo com a seguinte regra:
