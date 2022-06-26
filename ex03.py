@@ -1,18 +1,25 @@
-
+#
 # Autores:
 # Michel Silva
-# Emanuel Frank
+# Emanuel Franklyn
 # Carlos Eduardo
+#
 # data: 26/06/2022
 #
-#
-# par ou ímpar e imprima a mensagem respectiva.
+# 3. Programa que verifica se é par ou ímpar e imprima a     
+# mensagem respectiva.                                       
 
-valor = int(input("informe um valor: ")) # entrada de dados
+# Entrada de dados
 
-# processamento
-if (valor % 2 == 0): # se o valor for par
-  print(f"{valor} é par")
-else: # se o valor for impar
-  print(f"{valor} é impar")
+valor = int(input("informe um valor: ")) # Solicita um valor inteiro do usuário
 
+# processamento de dados
+
+if (valor % 2 == 0): # se o valor for par imprime a resposta pro usuário
+  print(f"{valor} é par") # imprime a mensagem se o valor for par
+
+else: # se o valor for impar imprime a resposta pro usuário
+  print(f"{valor} é impar") # imprime a mensagem se o valor for impar
+
+# saída de dados
+print("fim do programa") # Informa ao usuário que o programa terminou
