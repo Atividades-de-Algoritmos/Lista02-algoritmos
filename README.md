@@ -140,6 +140,9 @@ fim do programa
  
 # ex04
 #### <a href="https://github.com/Atividades-de-Algoritmos/Lista02-algoritmos/blob/main/ex04.py">Ir até o código</a>
+
+<br>
+
 ## Sobre 📒:
 - Solicita um salário e exibe o salário reajustado. aplicando as seguintes regras:
   - salários até R$ 300,00 (inclusivo): aumento de 50%
