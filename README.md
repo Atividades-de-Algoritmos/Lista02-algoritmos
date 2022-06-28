@@ -27,7 +27,7 @@
             <a href="#ex03">Exercício 03 -> Par & Impar.</a>
         </li>
         <li>
-            <a href="#ex04">Exercício 04 -> Salário Reajustado.</a>
+            <a href="#ex04">Exercício 04 -> Reajuste Salarial.</a>
         </li>
     </ol>
 </details>
@@ -42,8 +42,7 @@
 ## Sobre 📒:
 - Algoritmos que recebe três valores e descobre qual o menor valor.
 
-<br>
-<br>
+<br><br>
 
 ## Como executar 💽:
 
@@ -53,10 +52,9 @@ python ex01.py
 ```
 pressione enter. Logo em seguida, digite o valor 1, e pressione enter, em seguida, digite o valor 2, e pressione enter, em seguida, digite o valor 3, e pressione enter.
 
-O maior valor será exibido no console.
+>O maior valor será exibido no console.
 
-<br>
-<br>
+<br><br>
 
 ## Exemplo no cmd 👨‍💻:
 ```
@@ -78,8 +76,7 @@ fim do programa
 ## Sobre 📒:
  - Algoritmo que solicita três valores como entrada e em seguida mostra o resultado do menor número informado. 
 
-<br>
-<br>
+<br><br>
 
 ## Como executar 💽:
 No terminal, digite:
@@ -88,8 +85,7 @@ python ex02.py
 ```
 Dê entrada nos 3 valores necessários e logo em seguida o resultado com o valor do menor número informado será exibido no terminal.
 
-<br>
-<br>
+<br><br>
 
 ## Exemplo no cmd 👨‍💻:
 ```
@@ -113,8 +109,7 @@ fim do programa
 ## Sobre 📒:
 - Programa que verifica se um valor informado pelo usuário é par ou impar.
 
-<br>
-<br>
+<br><br>
 
 ## Como executar 💽:
 No terminal, digite:
@@ -124,8 +119,7 @@ python ex03.py
 pressione enter. Logo em seguida, informe o valor de x e pressione enter.
 O resultado final da expressão será exibido no terminal.
 
-<br>
-<br>
+<br><br>
 
 ## Exemplo no cmd 👨‍💻:
 ```
@@ -148,7 +142,7 @@ fim do programa
   - salários até R$ 300,00 (inclusivo): aumento de 50%
   - salários acima de R$ 300,00: aumento de 30%
 
-<br>
+<br><br>
 
 ## Como executar 💽:
 No terminal, digite:
@@ -157,8 +151,7 @@ python ex04.py
 ```
 Informe o salário e pressione enter, no terminal será exibido o valor do seu salário com o reajuste salarial.
 
-<br>
-<br>
+<br><br>
 
 ## Exemplo no cmd 👨‍💻:
 ```
