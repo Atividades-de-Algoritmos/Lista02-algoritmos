@@ -4,7 +4,7 @@
 # Emanuel Franklyn
 # Carlos Eduardo
 #
-# data: 26/06/2022
+# data: 27/06/2022
 #
 # 3. Programa que verifica se é par ou ímpar e imprima a     
 # mensagem respectiva.                                       
@@ -13,13 +13,14 @@
 
 valor = int(input("informe um valor: ")) # Solicita um valor inteiro do usuário
 
-# processamento de dados
+# Processamento de dados
 
-if (valor % 2 == 0): # se o valor for par imprime a resposta pro usuário
-  print(f"{valor} é par") # imprime a mensagem se o valor for par
+if (valor % 2 == 0): # Se o valor for par, executará a identação
+  print(f"{valor} é par") # Imprime a mensagem informando que o valor é par
 
-else: # se o valor for impar imprime a resposta pro usuário
-  print(f"{valor} é impar") # imprime a mensagem se o valor for impar
+else: # Se o valor for impar, executará a identação
+  print(f"{valor} é impar") # Imprime a mensagem informando que o valor é impar
 
-# saída de dados
+# Saída de dados
+
 print("fim do programa") # Informa ao usuário que o programa terminou
